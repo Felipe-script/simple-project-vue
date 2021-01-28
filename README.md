@@ -9,6 +9,11 @@ npm install
 ```
 npm run serve
 ```
+### Start fake api
+```
+npm run server
+```
+
 
 ### Compiles and minifies for production
 ```
